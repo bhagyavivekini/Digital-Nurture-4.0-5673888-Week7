@@ -16,21 +16,22 @@ Objective: Utilize JSX to render a list of items and apply conditional inline st
 Description: The officespacerentalapp displays a list of office spaces, showing their name, address, and rental price. The application uses JSX for rendering and applies conditional inline styling to the rental price, changing the color based on its value.
 
 Tech Used
-React.js
 
-JavaScript (ES6+)
+-> React.js
 
-Node.js (for runtime environment)
+-> JavaScript (ES6+)
 
-NPM (Node Package Manager)
+-> Node.js (for runtime environment)
 
-HTML5
+-> NPM (Node Package Manager)
 
-CSS3 (with inline styles)
+-> HTML5
 
-Visual Studio Code (IDE)
+-> CSS3 (with inline styles)
 
-Git & GitHub
+-> Visual Studio Code (IDE)
+
+-> Git & GitHub
 
 About Me
 DUGGIRALA BHAGYA VIVEKINI
